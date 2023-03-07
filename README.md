@@ -19,11 +19,13 @@ Dataset is open data collected from [here](https://data.world/promptcloud/30000-
 
 
 ## How to Install and Run the Project
-Run the 'app.R' file on RStudio to start the website
+- Cách 1: 
+
+- Cách 2:
++ Nếu
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 
 > **Note**
@@ -33,5 +35,5 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Tableau Desktop](https://www.tableau.com/products/desktop)

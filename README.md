@@ -18,7 +18,7 @@
 * Graph hover and tooltip in Map
 * Download image
 
-## How to Install and Run the Project
+## How to Run the Project
 * Method 1: Run the directly `Tableau_project.twb` file on Tableau to see the results
 
 * Method 2: Rerun from the original file
